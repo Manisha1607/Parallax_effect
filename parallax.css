@@ -6,7 +6,7 @@ body
 .pic1{
   height: 100vh;
   width: 100%;
-  background-image: url("../images/image1.jpg");
+  background-image: url("./image1.jpg");
   background-size: cover;
   background-position: center;
   display: table;
@@ -15,7 +15,7 @@ body
 .pic2{
   height: 100vh;
   width: 100%;
-  background-image: url("../images/image2.jpg");
+  background-image: url("./image2.jpg");
   background-size: cover;
   background-position: center;
   display: table;
@@ -25,7 +25,7 @@ body
 .pic3{
   height: 100vh;
   width: 100%;
-  background-image: url("../images/image3.jpg");
+  background-image: url("./image3.jpg");
   background-size: cover;
   background-position: center;
   display: table;
